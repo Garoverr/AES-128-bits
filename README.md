@@ -33,6 +33,8 @@ These operations are repeated across 10 rounds in AES-128, with each round addin
 
 ![aes_anim](readme_src/AES_GIF.gif)
 
+![aes_algo](readme_src/aes_ani.png)
+
 from : `https://www.youtube.com/watch?v=gP4PqVGudtg`
 
 
