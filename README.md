@@ -31,7 +31,7 @@ __Main computations__:
 
 These operations are repeated across 10 rounds in AES-128, with each round adding layers of security to the encryption.
 
-![aes_anim](readme_src/aes_ani.png)
+![aes_anim](readme_src/AES_GIF.gif)
 
 from : `https://www.youtube.com/watch?v=gP4PqVGudtg`
 
